@@ -1,0 +1,92 @@
+1234
+   MEAN INTERARRIVAL TIME FOR PACKETS             0.0
+        MEAN, NORMAL DELAY                                    0.0
+        STANDARD DEVIATION, NORMAL DELAY               1.0
+        NUMBER OF PACKETS SERVED                       100000
+        SERVER UTILIZATION                             0.06355612410713013
+        AVERAGE RESPONSE TIME                          0.05184288058003442
+        PROPORTION WHO SPEND FOUR
+         MINUTES OR MORE IN SYSTEM                     0.0
+        SIMULATION RUNLENGTH                           79960.67161874312
+        NUMBER OF DEPARTURES                           100000
+        NUMBER OF Out-of-Order packets                 99990
+        NUMBER OF Loss packets                         0
+        NUMBER OF busy                                 4003
+        NUMBER OF idle                                 95997
+        NUMBER OF highq                                4003
+        NUMBER OF lowq                                 0
+        Totaldelay is:                                 85144.90887668765
+
+4567
+  MEAN INTERARRIVAL TIME FOR PACKETS             0.0
+        MEAN, NORMAL DELAY                                    0.0
+        STANDARD DEVIATION, NORMAL DELAY               1.0
+        NUMBER OF PACKETS SERVED                       100000
+        SERVER UTILIZATION                             0.06329354023906138
+        AVERAGE RESPONSE TIME                          0.051853407789342984
+        PROPORTION WHO SPEND FOUR
+         MINUTES OR MORE IN SYSTEM                     0.0
+        SIMULATION RUNLENGTH                           80279.89036562182
+        NUMBER OF DEPARTURES                           100000
+        NUMBER OF Out-of-Order packets                 99981
+        NUMBER OF Loss packets                         0
+        NUMBER OF busy                                 4053
+        NUMBER OF idle                                 95947
+        NUMBER OF highq                                4053
+        NUMBER OF lowq                                 0
+        Totaldelay is:                                 85465.1803444979
+8911
+MEAN INTERARRIVAL TIME FOR PACKETS             0.0
+        MEAN, NORMAL DELAY                                    0.0
+        STANDARD DEVIATION, NORMAL DELAY               1.0
+        NUMBER OF PACKETS SERVED                       100000
+        SERVER UTILIZATION                             0.06358066954537409
+        AVERAGE RESPONSE TIME                          0.05187248158782136
+        PROPORTION WHO SPEND FOUR
+         MINUTES OR MORE IN SYSTEM                     0.0
+        SIMULATION RUNLENGTH                           79918.4818999649
+        NUMBER OF DEPARTURES                           100000
+        NUMBER OF Out-of-Order packets                 99985
+        NUMBER OF Loss packets                         0
+        NUMBER OF busy                                 4113
+        NUMBER OF idle                                 95887
+        NUMBER OF highq                                4113
+        NUMBER OF lowq                                 0
+        Totaldelay is:                                 85105.67925868902
+22
+MEAN INTERARRIVAL TIME FOR PACKETS             0.0
+        MEAN, NORMAL DELAY                                    0.0
+        STANDARD DEVIATION, NORMAL DELAY               1.0
+        NUMBER OF PACKETS SERVED                       100000
+        SERVER UTILIZATION                             0.06351147133652826
+        AVERAGE RESPONSE TIME                          0.051842296971513706
+        PROPORTION WHO SPEND FOUR
+         MINUTES OR MORE IN SYSTEM                     0.0
+        SIMULATION RUNLENGTH                           80009.33091996172
+        NUMBER OF DEPARTURES                           100000
+        NUMBER OF Out-of-Order packets                 99984
+        NUMBER OF Loss packets                         0
+        NUMBER OF busy                                 3997
+        NUMBER OF idle                                 96003
+        NUMBER OF highq                                3996
+        NUMBER OF lowq                                 1
+        Totaldelay is:                                 85193.50981705394
+6666
+
+MEAN INTERARRIVAL TIME FOR PACKETS             0.0
+        MEAN, NORMAL DELAY                                    0.0
+        STANDARD DEVIATION, NORMAL DELAY               1.0
+        NUMBER OF PACKETS SERVED                       100000
+        SERVER UTILIZATION                             0.06346927399398425
+        AVERAGE RESPONSE TIME                          0.051861756420352505
+        PROPORTION WHO SPEND FOUR
+         MINUTES OR MORE IN SYSTEM                     0.0
+        SIMULATION RUNLENGTH                           80047.15100873649
+        NUMBER OF DEPARTURES                           100000
+        NUMBER OF Out-of-Order packets                 99988
+        NUMBER OF Loss packets                         0
+        NUMBER OF busy                                 4088
+        NUMBER OF idle                                 95912
+        NUMBER OF highq                                4088
+        NUMBER OF lowq                                 0
+        Totaldelay is:                                 85233.27585071375

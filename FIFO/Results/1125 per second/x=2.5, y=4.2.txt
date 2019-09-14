@@ -1,0 +1,85 @@
+1234
+        MEAN INTERARRIVAL TIME                         0.0
+        MEAN, NORMAL DELAY                                    2.5
+        STANDARD DEVIATION OF SERVICE TIMES            4.2
+        NUMBER OF CUSTOMERS SERVED                     100000
+
+        SERVER UTILIZATION                             0.01143406047019758
+        AVERAGE RESPONSE TIME                          0.05093026880111167
+        PROPORTION WHO SPEND FOUR
+         MINUTES OR MORE IN SYSTEM                     0.0
+        SIMULATION RUNLENGTH                           444802.41414610774
+        NUMBER OF DEPARTURES                           100000
+        NUMBER OF Out-of-Order packets                 99986
+        NUMBER OF Loss packets                         0
+        NUMBER OF busy                                 520
+        NUMBER OF idle                                 99480
+        Totaldelay is:                                 449882.3633446758
+4567
+        MEAN INTERARRIVAL TIME                         0.0
+        MEAN, NORMAL DELAY                                    2.5
+        STANDARD DEVIATION OF SERVICE TIMES            4.2
+        NUMBER OF CUSTOMERS SERVED                     100000
+
+        SERVER UTILIZATION                             0.011470180665724555
+        AVERAGE RESPONSE TIME                          0.050929383458194734
+        PROPORTION WHO SPEND FOUR
+         MINUTES OR MORE IN SYSTEM                     0.0
+        SIMULATION RUNLENGTH                           443200.3097416394
+        NUMBER OF DEPARTURES                           100000
+        NUMBER OF Out-of-Order packets                 99986
+        NUMBER OF Loss packets                         0
+        NUMBER OF busy                                 526
+        NUMBER OF idle                                 99474
+        Totaldelay is:                                 448280.2589402118
+8911
+        MEAN INTERARRIVAL TIME                         0.0
+        MEAN, NORMAL DELAY                                    2.5
+        STANDARD DEVIATION OF SERVICE TIMES            4.2
+        NUMBER OF CUSTOMERS SERVED                     100000
+
+        SERVER UTILIZATION                             0.011446459548678511
+        AVERAGE RESPONSE TIME                          0.05094736125455147
+        PROPORTION WHO SPEND FOUR
+         MINUTES OR MORE IN SYSTEM                     0.0
+        SIMULATION RUNLENGTH                           444319.5581417173
+        NUMBER OF DEPARTURES                           100000
+        NUMBER OF Out-of-Order packets                 99986
+        NUMBER OF Loss packets                         0
+        NUMBER OF busy                                 576
+        NUMBER OF idle                                 99424
+        Totaldelay is:                                 449399.50734028884
+22
+        MEAN INTERARRIVAL TIME                         0.0
+        MEAN, NORMAL DELAY                                    2.5
+        STANDARD DEVIATION OF SERVICE TIMES            4.2
+        NUMBER OF CUSTOMERS SERVED                     100000
+
+        SERVER UTILIZATION                             0.011438176131757533
+        AVERAGE RESPONSE TIME                          0.05093685226069178
+        PROPORTION WHO SPEND FOUR
+         MINUTES OR MORE IN SYSTEM                     0.0
+        SIMULATION RUNLENGTH                           444423.6786645781
+        NUMBER OF DEPARTURES                           100000
+        NUMBER OF Out-of-Order packets                 99985
+        NUMBER OF Loss packets                         0
+        NUMBER OF busy                                 554
+        NUMBER OF idle                                 99446
+        Totaldelay is:                                 449503.62786314596
+6666
+        MEAN INTERARRIVAL TIME                         0.0
+        MEAN, NORMAL DELAY                                    2.5
+        STANDARD DEVIATION OF SERVICE TIMES            4.2
+        NUMBER OF CUSTOMERS SERVED                     100000
+
+        SERVER UTILIZATION                             0.011438416992441178
+        AVERAGE RESPONSE TIME                          0.05094692363182945
+        PROPORTION WHO SPEND FOUR
+         MINUTES OR MORE IN SYSTEM                     0.0
+        SIMULATION RUNLENGTH                           444691.27008980553
+        NUMBER OF DEPARTURES                           100000
+        NUMBER OF Out-of-Order packets                 99988
+        NUMBER OF Loss packets                         0
+        NUMBER OF busy                                 586
+        NUMBER OF idle                                 99414
+        Totaldelay is:                                 449771.2192883717
